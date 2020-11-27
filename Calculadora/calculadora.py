@@ -1,5 +1,5 @@
 # Este é um exemplo basico de uma calculadora feita em Python 3, não possui parte grafica, para executar é necessario ter o Python 3 Instalado e rodar no console 
-# 
+
 def calcular():
     operador = input('''
 / Digite a operação matemática que deseja realizar:
